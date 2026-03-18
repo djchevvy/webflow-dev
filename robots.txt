@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /pages/cities/
+Disallow: /pages/states/
+
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+Sitemap: https://www.webflowdevelopers.us/sitemap.xml

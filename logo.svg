@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 72" width="320" height="72">
+  <defs>
+    <linearGradient id="lg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#146EF5"/>
+      <stop offset="100%" stop-color="#6B3FF6"/>
+    </linearGradient>
+  </defs>
+  <!-- Mark: hex outline + W glyph -->
+  <polygon points="28,4 52,17 52,43 28,56 4,43 4,17" fill="url(#lg)" opacity="0.15" stroke="url(#lg)" stroke-width="1.5"/>
+  <polyline points="12,22 18,37 28,27 38,37 44,22" fill="none" stroke="url(#lg)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="28" cy="46" r="2.8" fill="#6B3FF6"/>
+  <!-- Wordmark -->
+  <text x="66" y="30" font-family="'Segoe UI',system-ui,sans-serif" font-size="21" font-weight="700" letter-spacing="-0.5" fill="#FFFFFF">Webflow</text>
+  <text x="66" y="52" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" font-weight="600" letter-spacing="3.5" fill="#146EF5">DEVELOPERS</text>
+  <line x1="61" y1="31" x2="61" y2="50" stroke="#146EF5" stroke-width="0.8" opacity="0.5"/>
+</svg>
